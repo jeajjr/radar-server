@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ParserRadar">
+    <output-path>$PROJECT_DIR$/../../web/jalmas.ddns.net/java</output-path>
+    <root id="archive" name="ParserRadar.jar">
+      <element id="module-output" name="ParserRadar" />
+    </root>
+  </artifact>
+</component>
